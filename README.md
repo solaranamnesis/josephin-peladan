@@ -30,7 +30,7 @@ French - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia | D
 English - Plain Text  
 English - PDF  
 
-## Sémiramis. Tragédie en 4 Actes.
+## Sémiramis. Tragédie en quatre Actes.
 
 French - Plain Text  
 French - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia | DnD | Custom Egyptian Template | B&WCustom | B&WCustomColors | HoneyComb | CustomNut  
